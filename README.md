@@ -24,7 +24,7 @@ Deepening my understanding of user lifecycle analytics and developing frameworks
 
 💡 What Drives My Work:
 Curiosity. I'm fascinated by the stories data tells and excited by the process of turning insights into experiments, then watching those experiments shape product growth. There's something compelling about crafting a hypothesis, testing it, and seeing real impact on how users engage with a product.
-I believe data should inform strategy, not just report on it. I use analytics to identify untapped markets and develop actionable strategies for market penetration—turning insights into strategic roadmaps that drive growth.
+I believe data should inform strategy, not just report on it. I use analytics to identify untapped markets and develop actionable strategies for market penetration turning insights into strategic roadmaps that drive growth.
 
 📫 Let's Connect: 
 Email: sylviaimisi01@gmail.com
