@@ -24,7 +24,7 @@ Deepening my understanding of user lifecycle analytics and developing frameworks
 💡 What Drives My Work
 Curiosity. I'm fascinated by the stories data tells and excited by the process of turning insights into experiments, then watching those experiments shape product growth. There's something compelling about crafting a hypothesis, testing it, and seeing real impact on how users engage with a product.
 
-📫 Let's Connect
+📫 Let's Connect: 
 Email: sylviaimisi01@gmail.com
 LinkedIn: https://www.linkedin.com/in/sylvia-imisi/
 
