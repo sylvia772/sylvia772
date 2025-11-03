@@ -26,7 +26,7 @@ Curiosity. I'm fascinated by the stories data tells and excited by the process o
 📫 Let's Connect
 
 Email: sylviaimisi01@gmail.com
-LinkedIn: linkedin.com/in/sylvia-imisi 
+LinkedIn: https://www.linkedin.com/in/sylvia-imisi/
 
 
 Check out my repositories below to see my work in action ⬇️
