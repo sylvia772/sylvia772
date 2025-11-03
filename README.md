@@ -12,12 +12,11 @@ Lifecycle Analytics: Mapping and optimizing the entire user journey
 Market Strategy: Identifying new market opportunities through data and developing strategies to penetrate them
 Experimentation: Designing data-driven experiments and measuring their impact
 
-🛠️ Technical Skills
-
-Languages & Query: Python, SQL
-Visualization & BI: Power BI, Metabase
-Analytics Platforms: Mixpanel
-Data Tools: Excel
+🛠️ Technical Skills:
+1. Languages & Query: Python, SQL. 
+2. Visualization & BI: Power BI, Metabase  
+3. Analytics Platforms: Mixpanel
+4. Data Tools: Excel
 
 🌱 Currently Exploring: 
 Deepening my understanding of user lifecycle analytics and developing frameworks to ask better questions about user behavior understanding not just the what, but the why and where to of user journeys.
