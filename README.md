@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi, I'm Sylvia Imisi 👋
 
-<!--
-**sylvia772/sylvia772** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Growth Analyst | Data-Driven Decision Maker
 
-Here are some ideas to get you started:
+I'm a data analyst specializing in growth analytics, with a focus on FinTech and SaaS. I'm passionate about understanding the complete user lifecycle from acquisition to retention and using data to drive strategic decisions that scale products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 What I Do
+I focus on every aspect of growth analytics:
+User Acquisition: Understanding where users come from and optimizing acquisition channels
+Retention & Churn: Analyzing user behavior patterns to improve retention and reduce churn
+Lifecycle Analytics: Mapping and optimizing the entire user journey
+Experimentation: Designing data-driven experiments and measuring their impact
+
+🛠️ Technical Skills
+
+Languages & Query: Python, SQL
+Visualization & BI: Power BI, Metabase
+Analytics Platforms: Mixpanel
+Data Tools: Excel
+
+🌱 Currently Exploring
+Deepening my understanding of user lifecycle analytics and developing frameworks to ask better questions about user behavior understanding not just the what, but the why and where to of user journeys.
+
+💡 What Drives My Work
+Curiosity. I'm fascinated by the stories data tells and excited by the process of turning insights into experiments, then watching those experiments shape product growth. There's something compelling about crafting a hypothesis, testing it, and seeing real impact on how users engage with a product.
+📫 Let's Connect
+
+Email: sylviaimisi01@gmail.com
+LinkedIn: linkedin.com/in/sylvia-imisi 
+
+
+Check out my repositories below to see my work in action ⬇️
